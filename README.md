@@ -2,11 +2,9 @@
 
 ![Chewie](images/chewbaca.png)  
 
+> Rrrrrrr-ghghghghgh! ~[Chewbacca](https://en.wikipedia.org/wiki/Chewbacca)
 
-> Rrrrrrr-ghghghghgh! ~[Chewbaca](https://en.wikipedia.org/wiki/Chewbacca)
-
-
-## Learning Objectives - The student should be able to..
+## Learning Objectives - The student should be able to...
 
 * See Outline
 * Need to fill this out

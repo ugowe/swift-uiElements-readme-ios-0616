@@ -1,10 +1,10 @@
 # UIKit
 
-![Chewie](images/chewbaca.png)  
+![Chewie](http://i.imgur.com/lfLcgZ2.png?1)  
 
 > Rrrrrrr-ghghghghgh! ~[Chewbacca](https://en.wikipedia.org/wiki/Chewbacca)
 
-## Learning Objectives - The student should be able to...
+## Learning Objectives
 
 * Explain the role of UIKit in the development of iOS programs
 * Describe the major UI controls that are included as a part of UIKit
